@@ -23,15 +23,16 @@ Here are some ideas to get you started:
     </div>
     <div align=left>
         <br>
+        <h1>About Me</h1>
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Full Stack Web Development.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity.</li>
             <li>💬 <b>Ask me about anything</b>: Related to technology, coding and video games.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Gaming(💻), Hiking(🌄🚶‍♂️), and Cooking(👨‍🍳).</li>
+            <li>😄 <b>Fun fact</b>: I love Gaming 💻, Hiking 🌄🚶‍♂️, and Cooking 👨‍🍳.</li>
         </ul>
     </div>
-    <div align=center>
+    <div align=left>
         <h1>Contribution Activity</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=MohamadSakr96&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
