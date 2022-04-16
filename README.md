@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/MohamadSakr96/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        [<img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" />](http://stackoverflow.com){:target="_blank"}
     </div>
     <div align=left>
         <br>
