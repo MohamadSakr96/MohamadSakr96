@@ -19,8 +19,7 @@ Here are some ideas to get you started:
         <img src="https://readme-typing-svg.herokuapp.com?color=%2FA4FF44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mohamad+%F0%9F%91%8B;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/MohamadSakr96/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        [<img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" />](http://stackoverflow.com){:target="_blank"}
+        <a href="https://www.linkedin.com/in/MohamadSakr96/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
     </div>
     <div align=left>
         <br>
