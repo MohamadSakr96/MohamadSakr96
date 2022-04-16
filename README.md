@@ -19,7 +19,7 @@ Here are some ideas to get you started:
         <img src="https://readme-typing-svg.herokuapp.com?color=%2FA4FF44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mohamad+%F0%9F%91%8B;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/MohamadSakr96/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/MohamadSakr96/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
     </div>
     <div align=left>
         <br>
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
             <li>🌱 <b>I’m currently learning</b>: Full Stack Web Development.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity.</li>
             <li>💬 <b>Ask me about anything</b>: Related to technology, coding and video games.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Gaming 💻, Hiking 🌄🚶‍♂️, and Cooking 👨‍🍳.</li>
+            <li>😄 <b>Fun facts</b>: I love Gaming 💻, Hiking 🌄🚶‍♂️, and Cooking 👨‍🍳.</li>
         </ul>
     </div>
     <div align=left>
