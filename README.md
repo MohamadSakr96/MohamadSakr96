@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  
  <div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2FA4FF44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mohamad+%F0%9F%91%8B;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2FA4FF44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mohamad+%F0%9F%91%8B;Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/MohamadSakr96/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
         <br>
         <h1>About Me</h1>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Full Stack Web Development.</li>
+            <li>🌱 <b>I’m currently learning</b>: Web Development.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity.</li>
             <li>💬 <b>Ask me about anything</b>: Related to technology, coding and video games.</li>
             <li>😄 <b>Fun facts</b>: I love Gaming 💻, Hiking 🌄🚶‍♂️, and Cooking 👨‍🍳.</li>
